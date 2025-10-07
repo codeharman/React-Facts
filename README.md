@@ -12,18 +12,19 @@ A small web page that shows interesting facts about React — just to get starte
 
 ## 🖥️ How to Run
 1. Clone this repo  
-   ```bash
-   git clone https://github.com/codeharman/React-Facts.git
-  ```
+``` 
+git clone https://github.com/codeharman/React-Facts.git
+```
 
+```
+npm install
+```
 ## Install Dependencies
 
-```npm install ```
+``` 
+npm run dev 
+```
 
-## Install Dependencies
-
-``` npm run dev ```
-
-# Live Website
+# Project Live Website
 
 [Here's the Website](https://react-facts-black.vercel.app/)
