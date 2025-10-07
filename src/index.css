@@ -1,0 +1,25 @@
+/* Body */
+
+body {
+  background-color: #282c34;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: whitesmoke;
+  margin: 0;
+}
+
+.header {
+  display: flex;
+  padding: 10px 40px;
+  background-color: #1a1d22;
+}
+
+.header-text {
+  margin-left: 10px;
+}
+
+.list {
+  margin: 35px 14px;
+  display: grid; /* or display: grid; */
+  gap: 10px; /* Adjust the value as needed */
+}
+
