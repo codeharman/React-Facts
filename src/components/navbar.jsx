@@ -1,6 +1,6 @@
 // Navbar()
 
-import ReactLogo from './src/assets/react.svg'
+import ReactLogo from '../assets/react.svg'
 export default function Navbar() {
   return (
     <>
